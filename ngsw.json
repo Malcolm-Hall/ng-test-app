@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1657889867622,
+  "timestamp": 1657891884098,
   "index": "/ng-test-app/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/ng-test-app/favicon.ico",
         "/ng-test-app/index.html",
-        "/ng-test-app/main.c066a6e3d03c19b3.js",
+        "/ng-test-app/main.2dbcd01d32dad470.js",
         "/ng-test-app/manifest.webmanifest",
         "/ng-test-app/polyfills.2a6f892065c64b71.js",
         "/ng-test-app/runtime.11fd4284b15f0a4f.js",
@@ -52,8 +52,8 @@
     "/ng-test-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/ng-test-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/ng-test-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ng-test-app/index.html": "456d8bcbfa8a0716ecce02f370d432230d456693",
-    "/ng-test-app/main.c066a6e3d03c19b3.js": "445f898f77541ddc6ea56ee836a441eb172dc6f4",
+    "/ng-test-app/index.html": "22dd65897af720489dad4413c2b674d2211c7ba7",
+    "/ng-test-app/main.2dbcd01d32dad470.js": "93bfe33329eb263bc043f15ff515a82fe145f966",
     "/ng-test-app/manifest.webmanifest": "e2c8448bf0ac799d303b10a34ed5346504efeb92",
     "/ng-test-app/polyfills.2a6f892065c64b71.js": "0f43472c0a61713bb6ea44e56fb2bae0f6aa399c",
     "/ng-test-app/runtime.11fd4284b15f0a4f.js": "c8f2c962e855d7a88b65d74498acb97494c9923f",
